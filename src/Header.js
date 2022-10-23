@@ -45,7 +45,7 @@ function Header() {
     })}
     </div>
     <div className="col-6 my-0 mx-auto bg-warning bg-opacity-25 rounded-5 shadow-lg">
-        <p className='brand text-light text-opacity-75'>Only here can you get the best dishes</p>
+        <p className='brand text-light text-opacity-100'>Only here can you get the best dishes</p>
         <p className='fs-4 text-light opacity-75 fw-bolder'>Look below for personal profile...check catalog below to make your choice...</p>
     </div>
   </section>;
